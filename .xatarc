@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Nick-Strange-s-workspace-vbg7db.us-east-1.xata.sh/db/JNS_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
